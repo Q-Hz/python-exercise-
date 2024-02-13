@@ -1,0 +1,3 @@
+In Python you can learn how to basic program mind
+In Python you can learn importing functions
+In python you can learn what is class

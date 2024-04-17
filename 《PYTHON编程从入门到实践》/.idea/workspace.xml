@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8072994-9559-4a6b-9edc-5cff0adc9ed2" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/../git 操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git 操作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vscode快捷键.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../vscode快捷键.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +12,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2cl3HpowyXelX63uH6uZTj9bGho" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,7 +25,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Program Files/python-exercise-/《PYTHON编程从入门到实践》"
+    "last_opened_file_path": "D:/cumt/数学建模/论文写作辅助资料"
   }
 }]]></component>
   <component name="SharedIndexes">
